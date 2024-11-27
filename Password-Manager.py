@@ -1,6 +1,4 @@
-
 from cryptography.fernet import Fernet
-
 import os
 
 # Function to generate a key for encryption
